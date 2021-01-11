@@ -71,6 +71,12 @@ I'm Evita from India, and I do Designing and Development. I enjoy learning langu
 ---
 
 ---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Evita's GitHub Stats" src="https://github-readme-stats.evitajain15.vercel.app/api?username=evitajain15&show_icons=true&hide_border=true" />
+
+</details>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/evitajain15)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/evita-jain-a34526a8/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/evita_jain)  
 
