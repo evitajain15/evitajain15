@@ -11,6 +11,8 @@ I'm Evita from India, and I do Designing and Development. I enjoy learning langu
 * ⚛ ReactJs, Redux
 * 💻 HTML5, CSS3, BootStrap4, JavaScript
 
+## Technologies
+
 <!-- Vs code -->
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -69,13 +71,6 @@ I'm Evita from India, and I do Designing and Development. I enjoy learning langu
 ---
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Mahesh's GitHub Stats" src="https://github-readme-stats.maheshmulik.vercel.app/api?username=maheshmulik&show_icons=true&hide_border=true" />
-
-</details>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/evitajain15)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/evita-jain-a34526a8/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/evita_jain)  
 
