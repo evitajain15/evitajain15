@@ -7,7 +7,7 @@ I'm Evita from India, and I do Designing and Development. I enjoy learning langu
 - 🥅 2021 Goals: Learn how to Contribute to Open Source projects.To get better at MERN Stack
 
 ## Skills
-*atom ReactJS
+. *atom ReactJS
 
 Skills: REACT / JS / HTML 5/ CSS3/ BootStrap4/ Redux
 
