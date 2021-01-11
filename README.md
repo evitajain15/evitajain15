@@ -3,7 +3,7 @@
 I do Designing and Development. I enjoy learning languages and frameworks.  I also enjoy working on UI and Design.
 
 - 🔭 I’m currently working on UI Development Technologies. 
-- 🌱 I’m currently learning about web developement :D
+- 🌱 I’m currently learning about web developement. 
 - 🥅 2021 Goals: Learn how to Contribute to Open Source projects.To get better at MERN Stack
 
 ## Skills
