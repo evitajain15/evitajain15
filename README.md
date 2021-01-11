@@ -75,7 +75,6 @@ I do Designing and Development. I enjoy learning languages and frameworks.  I al
 
 ---
 
----
 <details>
   <summary>:zap: GitHub Stats</summary>
 
