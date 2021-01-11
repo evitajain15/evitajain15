@@ -7,11 +7,9 @@ I'm Evita from India, and I do Designing and Development. I enjoy learning langu
 - 🥅 2021 Goals: Learn how to Contribute to Open Source projects.To get better at MERN Stack
 
 ## Skills
-<img align="left" alt="React" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />ReactJS
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />JavaScript
 
-Skills: REACT / JS / HTML 5/ CSS3/ BootStrap4/ Redux
-
+* ⚛ ReactJs, Redux
+* 💻 HTML5, CSS3, BootStrap4, JavaScript
 
 <!-- Vs code -->
 
@@ -28,6 +26,9 @@ Skills: REACT / JS / HTML 5/ CSS3/ BootStrap4/ Redux
 <!-- javascript -->
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<!-- ReactJS --!>
+
+<img align="left" alt="React" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />ReactJS
 
 <!-- GraphQl -->
 
