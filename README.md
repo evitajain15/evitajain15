@@ -1,6 +1,4 @@
-### Hello Folks 👋
-
-#Evita Jain
+### Hi there, I'm Evita Jain 👋
 
 I do Designing and Development. I enjoy learning languages and frameworks.  I also enjoy working on UI and Design.
 
