@@ -1,6 +1,8 @@
-### Hi there 👋, Evita Jain
+### Hello Folks 👋
 
-I'm Evita from India, and I do Designing and Development. I enjoy learning languages and frameworks.  I also enjoy working on UI and Design.
+#Evita Jain
+
+I do Designing and Development. I enjoy learning languages and frameworks.  I also enjoy working on UI and Design.
 
 - 🔭 I’m currently working on UI Development Technologies. 
 - 🌱 I’m currently learning about web developement :D
